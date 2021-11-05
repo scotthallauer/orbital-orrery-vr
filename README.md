@@ -4,7 +4,7 @@
 Scott Hallauer, Tumelo Makgaka and Nash Chakanyuka
 
 ## Pre-requisites
-- Unity Editor 2019.4
+Unity Editor 2019.4
 
 ## Installation
 Simply download this repository to your computer and place it in a convenient location.
