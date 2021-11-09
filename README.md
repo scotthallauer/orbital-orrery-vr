@@ -3,7 +3,7 @@
 ## Authors
 Scott Hallauer, Tumelo Makgaka and Nash Chakanyuka
 
-## Pre-requisites
+## Prerequisites
 Unity Editor 2019.4
 
 ## Installation
@@ -13,4 +13,4 @@ Open Unity Hub, click "Add project from disk" (under the "Open" dropdown menu) a
 
 ## Running the Environment
 
-Select the "Orbital Orrery" scene under Assets > Scenes and then press the play icon at the top of the scene view.
+Select the "OrreryScene" under Assets > Scenes and then press the play icon at the top of the scene view.
